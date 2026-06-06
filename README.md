@@ -19,17 +19,7 @@
 ### 📚 App de Cursos
 Aplicativo mobile desenvolvido com React Native para gerenciamento e visualização de cursos.
 ---
-## 📊 Estatísticas GitHub
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=geoalmeiida&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geoalmeiida&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
 ## 🌐 Contato
 
  <a href=https://www.instagram.com/geogiih/>
