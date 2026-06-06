@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou Geovanna 👋</h1>
+## 👩‍💻 Sobre mim
 
-<!--
-**geoalmeiida/geoalmeiida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Graduanda em Ciência da Computação
+- 📱 Desenvolvendo aplicações mobile com React Native e Expo
+- ⚡ Estudando TypeScript, JavaScript e boas práticas de desenvolvimento
+- 🚀 Em constante evolução através de projetos práticos
 
-Here are some ideas to get you started:
+---
+## 🚀 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,git,github,vscode" />
+</p>
+
+---
+## 📂 Projetos
+
+### 📚 App de Cursos
+Aplicativo mobile desenvolvido com React Native para gerenciamento e visualização de cursos.
+---
+## 📊 Estatísticas GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=geoalmeiida&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geoalmeiida&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+## 🌐 Contato
+
+ <a href="SEU_INSTAGRAM">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
