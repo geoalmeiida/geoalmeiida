@@ -27,6 +27,5 @@ Aplicativo mobile desenvolvido com React Native para gerenciamento e visualizaç
 </p>
 
 ---
-## 🐍 Contribuições
 
 ![Snake animation](https://github.com/geoalmeiida/geoalmeiida/blob/output/github-contribution-grid-snake.svg)
