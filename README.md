@@ -10,7 +10,7 @@
 ## 🚀 Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,git,github,vscode, html, css, react" />
 </p>
 
 ---
